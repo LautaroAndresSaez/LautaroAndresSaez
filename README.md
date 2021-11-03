@@ -66,7 +66,7 @@ Desde muy chico me encanta el gaming, y es uno de mis grandes hobbies. En la pan
 </ul>
 
 # Proyectos
-- Stock Filament 3D Printer
+- ## Stock Filament 3D Printer
 
 <a href="https://github.com/LautaroAndresSaez/stockControl3DPrinter-RN" style="display: flex; gap: .3rem; justify-content: center;">
     <img src="./rn-3.jpeg" alt="react-native" style="height: 500px;"/>
@@ -76,7 +76,7 @@ Desde muy chico me encanta el gaming, y es uno de mis grandes hobbies. En la pan
 
 <br/>
 
-- Toque Clon (En proceso)
+- ## Toque Clon (En proceso)
 
 <a href="https://github.com/LautaroAndresSaez/toque" style="display: flex; gap: .3rem; justify-content: center;">
     <img src="./toque.png" alt="toque"/>
