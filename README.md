@@ -46,19 +46,16 @@ Desde muy chico me encanta el gaming, y es uno de mis grandes hobbies. En la pan
 
 <ul>
     <li>
-        ReactJS, Redux, Redux-saga, Redux-thunk, React Native
+        ReactJS, Zustand, Redux, Redux-saga, Redux-thunk, React Native
     </li>
     <li>
-        NodeJs, Express, Sequelize, Mongoose
+        NodeJs, Express, Sequelize, Mongoose, NestJS
     </li>
     <li>
-        MySQL, MariaDB, MongoDB
+        MySQL, MariaDB, MongoDB, PostgreSQL
     </li>
     <li>
         Git, Docker, Docker-Compose
-    </li>
-    <li>
-        Flutter
     </li>
     <li>
         Tensorflow, pytorch, numpy, matplotlib
